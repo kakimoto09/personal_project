@@ -1,1 +1,1 @@
-# personal_project
+# This is Akimoto's personal project.
